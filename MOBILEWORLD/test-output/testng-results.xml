@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-19T16:39:25 IST" name="Default suite" finished-at="2022-09-19T16:39:39 IST" duration-ms="13975">
+    <groups>
+    </groups>
+    <test started-at="2022-09-19T16:39:25 IST" name="Default test" finished-at="2022-09-19T16:39:39 IST" duration-ms="13975">
+      <class name="signup">
+        <test-method signature="signup1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:signup@39529185]" started-at="2022-09-19T16:39:25 IST" name="signup1" data-provider="datas" finished-at="2022-09-19T16:39:31 IST" duration-ms="5614" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[muje]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[rahuman]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[muje1@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[muje1421]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[21/06/2000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[6383696035]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[hii i am mujif]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup1 -->
+        <test-method signature="signup1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:signup@39529185]" started-at="2022-09-19T16:39:31 IST" name="signup1" data-provider="datas" finished-at="2022-09-19T16:39:35 IST" duration-ms="4233" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ra]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[muje1@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[muje1421]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[21/06/2000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[6383696035]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[hii i am mujif]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup1 -->
+        <test-method signature="signup1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:signup@39529185]" started-at="2022-09-19T16:39:35 IST" name="signup1" data-provider="datas" finished-at="2022-09-19T16:39:39 IST" duration-ms="4087" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[muje]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[rahuman]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[muje1@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[muje1421]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[6383696035]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[hii i am mujif]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup1 -->
+      </class> <!-- signup -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
